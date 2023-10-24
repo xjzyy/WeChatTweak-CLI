@@ -55,7 +55,6 @@ sudo wechattweak-cli install
 # 卸载
 sudo wechattweak-cli uninstall
 ```
-<img width="748" alt="image" src="https://github.com/xjzyy/WeChatTweak-CLI/assets/29560190/63277bb9-db36-4946-aa07-d292ebe63ad9">
 
 ```
 > sudo wechattweak-cli install
